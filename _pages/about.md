@@ -17,8 +17,12 @@ Education
 2021, M.E. in Software Engineering, Shanghai Jiao Tong University  
 2018, B.E. in Software Engineering, Shanghai Jiao Tong University
 
-PhD Publications
+Publications
 =====
+_Efficient Serving of ML Models for Recommendation in Dynamic Production Environments_  
+Tapan Chugh, **Haoyu Li**, Zhipeng Jia, Jaideep Singh, Brent Stephens, David Culler, Arvind Krishnamurthy, Fan Lai, Hank Levy  
+In Submission
+
 _DFUSE: Strongly Consistent Write-Back Kernel Caching for Distributed Userspace File Systems [[PDF](https://arxiv.org/pdf/2503.18191)]_  
 **Haoyu Li**, Jingkai Fu, Qing Li, Windsor Hsu, Asaf Cidon  
 **ACM SoCC 2025**  
@@ -36,8 +40,6 @@ _Roller: Fast and Efficient Tensor Compilation for Deep Learning [[PDF](https://
 Hongyu Zhu, Ruofan Wu, Yijia Diao, Shanbin Ke, **Haoyu Li**, Chen Zhang, Jilong Xue, Lingxiao Ma, Yuqing Xia, Wei Cui, Fan Yang, Mao Yang, Lidong Zhou, Asaf Cidon, Gennady Pekhimenko  
 **USENIX OSDI 2022** (19.4%)  
 
-Prior Publications
-=====
 _Platinum: A CPU-Efficient Concurrent Garbage Collector for Tail-Reduction of Interactive Services [[PDF](https://Lei-Houjyu.github.io/files/platinum.pdf)]_  
 Mingyu Wu, Ziming Zhao, Yanfei Yang, **Haoyu Li**, Haibo Chen, Binyu Zang, Haibing Guan, Sanhong Li, Chuansheng Lu, and Tongbao Zhang  
 **USENIX ATC 2020** (18.7%)
